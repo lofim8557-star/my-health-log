@@ -66,3 +66,5 @@ pip install -r requirements.txt
 
 # 3. 서버 실행
 uvicorn main:app --reload --port 8000
+```
+![화면 캡쳐본](./capture.png)
